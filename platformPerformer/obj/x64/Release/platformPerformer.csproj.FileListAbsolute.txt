@@ -1,0 +1,9 @@
+E:\c#\platformPerformer\platformPerformer\bin\x64\Release\platformPerformer.exe.config
+E:\c#\platformPerformer\platformPerformer\obj\x64\Release\platformPerformer.csprojResolveAssemblyReference.cache
+E:\c#\platformPerformer\platformPerformer\obj\x64\Release\platformPerformer.Form1.resources
+E:\c#\platformPerformer\platformPerformer\obj\x64\Release\platformPerformer.Properties.Resources.resources
+E:\c#\platformPerformer\platformPerformer\obj\x64\Release\platformPerformer.csproj.GenerateResource.Cache
+E:\c#\platformPerformer\platformPerformer\bin\x64\Release\platformPerformer.exe
+E:\c#\platformPerformer\platformPerformer\bin\x64\Release\platformPerformer.pdb
+E:\c#\platformPerformer\platformPerformer\obj\x64\Release\platformPerformer.exe
+E:\c#\platformPerformer\platformPerformer\obj\x64\Release\platformPerformer.pdb
